@@ -8,3 +8,6 @@ However, keep in mind that to obtain a very precise predicted value in a regress
 
 
 Depending on the state of the market, you should also properly choose the number of past days to look at and how far in the future you want to predict. Common sense says that the further you want to predict, the worse the prediction will be and it is valid also in this case.
+
+**Keep Updating**
+**If I have new idea, I will keep training model**

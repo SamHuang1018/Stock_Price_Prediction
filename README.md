@@ -1,4 +1,4 @@
-# Stock Price Prediction using LSTM neural network and Technical Indicators and NLP.
+# Stock Price Prediction using LSTM/GRU/biLSTM neural network and Technical Indicators and NLP.
 
 
 In this project, the goal is to predict the Stock Price of M days into the future looking back at the past N days. With respect to other stock prediction projects, Technical Indicators and the sentiment scores of Finbert are used as regressors, and they can potentially be many. In this way, the use of some regressors combinations proved to be more robust in particular situations of the market (ex: high volatility, strong bullish/bearish trends, etc..) for stock price predictions.
